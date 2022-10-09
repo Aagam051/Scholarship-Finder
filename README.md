@@ -1,2 +1,3 @@
 # Scholarship-Finder
-You can easily find the Scholarships that you are eligible to apply !
+Education has become costly. And thus we come up with an idea of “ Scholarship Finder “ where a needy can find a scholarship .Through this one can definitely fulfill their dreams of educating themselves at a lower cost.
+
